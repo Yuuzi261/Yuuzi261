@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Yuuzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldorange261&show_icons=true&title_color=b7e0f3&text_color=336887&icon_color=3e3b44&bg_color=c6c6c6)
+![Yuuzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldorange261&show_icons=true&title_color=8cd5eb&text_color=336887&icon_color=3e3b44&bg_color=ffffff)
 
 <!--
 **GoldOrange261/GoldOrange261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
