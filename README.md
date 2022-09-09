@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=8cd5eb)
 ![](https://img.shields.io/badge/Shell-wt-informational?style=flat&logo=windowsterminal&logoColor=white&color=8cd5eb)
 
-![](https://raw.githubusercontent.com/GoldOrange261/GoldOrange261/main/img/nachoneko.png)
+[![](https://raw.githubusercontent.com/GoldOrange261/GoldOrange261/main/img/nachoneko.png)](https://nanyanostore.com/)
 
 <!--
 **GoldOrange261/GoldOrange261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
