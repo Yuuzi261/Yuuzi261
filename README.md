@@ -15,7 +15,7 @@
 
 [![](https://raw.githubusercontent.com/GoldOrange261/GoldOrange261/main/img/nachoneko.png)](https://nanyanostore.com/)
 
-## 📌Collaborative repositories
+## 📌Collaborative Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuuzi-and-chunill&repo=Blue-Archive-Damage-Calculator&title_color=8cd5eb)](https://github.com/yuuzi-and-chunill/Blue-Archive-Damage-Calculator)
 
