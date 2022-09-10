@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=8cd5eb)
 ![](https://img.shields.io/badge/Shell-wt-informational?style=flat&logo=windowsterminal&logoColor=white&color=8cd5eb)
 
-[![](https://raw.githubusercontent.com/GoldOrange261/GoldOrange261/main/img/nachoneko.png)](https://nanyanostore.com/)
+[![](https://raw.githubusercontent.com/GoldOrange261/GoldOrange261/main/img/nachoneko.png)](https://github.com/GoldOrange261/GoldOrange261/tree/main/md/declaration.md)
 
 ## 📌Collaborative Repositories
 
