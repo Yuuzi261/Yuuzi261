@@ -2,7 +2,7 @@
 
 [![artist_logo](https://raw.githubusercontent.com/GoldOrange261/GoldOrange261/main/icon/artist.png)](https://www.flaticon.com/free-icons/artist) Artist: 甘城なつき/Nachoneko💤
 
-[![pixiv_logo](https://raw.githubusercontent.com/GoldOrange261/GoldOrange261/main/icon/pixiv.PMG)](https://simpleicons.org/?q=pixiv) Pixiv: [甘城なつき](https://www.pixiv.net/users/3036679)
+[![pixiv_logo](https://raw.githubusercontent.com/GoldOrange261/GoldOrange261/main/icon/pixiv.png)](https://simpleicons.org/?q=pixiv) Pixiv: [甘城なつき](https://www.pixiv.net/users/3036679)
 
 [![twitter_logo](https://raw.githubusercontent.com/GoldOrange261/GoldOrange261/main/icon/twitter.png)](https://simpleicons.org/?q=twitter) Twitter: [甘城なつき/Nachoneko💤](https://twitter.com/amsrntk3)
 
