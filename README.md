@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api?username=yuuzi261&show_icons=true&hide_border=true&title_color=b7e0f3&text_color=8ab0c6&icon_color=c6c6c6&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="Yuuzi's GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=yuuzi261&theme=dark&mode=weekly&background=EBEBEB00&fire=B7E0F3&currStreakNum=AEE5FF&sideLabels=B7E0F3&sideNums=B7E0F3&ring=B7E0F3&currStreakLabel=AEE5FF&border=EBEBEB00" alt="GitHub Streak" />
+<img width="400" src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api?username=yuuzi261&show_icons=true&hide_border=true&title_color=b7e0f3&text_color=8ab0c6&icon_color=c6c6c6&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="Yuuzi's GitHub stats" />
+<img width="400" src="https://streak-stats.demolab.com?user=yuuzi261&theme=dark&mode=weekly&background=EBEBEB00&fire=B7E0F3&currStreakNum=AEE5FF&sideLabels=B7E0F3&sideNums=B7E0F3&ring=B7E0F3&currStreakLabel=AEE5FF&border=EBEBEB00" alt="GitHub Streak" />
 </p>
 
-![Yuuzi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuuzi261&custom_title=Contribution%20Graph&theme=github-compact&line=8ab0c6&point=b7e0f3&hide_border=true)
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yuuzi261&custom_title=Contribution%20Graph&theme=github-compact&line=8ab0c6&point=b7e0f3&hide_border=true" alt="Yuuzi's github activity graph" />
+</p>
 
 <p align="center">
 <img src="https://github.com/Yuuzi261/Yuuzi261/blob/main/img/terminal.gif" alt="Terminal GIF" />
