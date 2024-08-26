@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img width="400" src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api?username=yuuzi261&show_icons=true&hide_border=true&title_color=b7e0f3&text_color=8ab0c6&icon_color=c6c6c6&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="Yuuzi's GitHub stats" />
+<img width="400" src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api?username=yuuzi261&show_icons=true&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6&icon_color=c6c6c6&include_all_commits=true&rank_icon=github" alt="Yuuzi's GitHub stats" />
 <img width="400" src="https://streak-stats.demolab.com?user=yuuzi261&theme=dark&mode=weekly&background=EBEBEB00&fire=B7E0F3&currStreakNum=AEE5FF&sideLabels=B7E0F3&sideNums=B7E0F3&ring=B7E0F3&currStreakLabel=AEE5FF&border=EBEBEB00" alt="GitHub Streak" />
 </p>
 
@@ -15,7 +15,7 @@
 
 <p align="center">
 <img src="https://github.com/Yuuzi261/Yuuzi261/blob/main/img/terminal.gif" alt="Terminal GIF" />
-<a href="https://github.com/yuuzi261?tab=repositories"><img src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/top-langs/?username=yuuzi261&layout=donut-vertical&hide_border=true&title_color=b7e0f3&text_color=8ab0c6&bg_color=0d1117" alt="Top Langs" /></a>
+<a href="https://github.com/yuuzi261?tab=repositories"><img src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/top-langs/?username=yuuzi261&layout=donut-vertical&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6" alt="Top Langs" /></a>
 </p>
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=b7e0f3)
