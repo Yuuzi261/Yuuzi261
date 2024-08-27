@@ -13,14 +13,16 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yuuzi261&custom_title=Contribution%20Graph&theme=github-compact&line=8ab0c6&point=b7e0f3&hide_border=true" alt="Yuuzi's github activity graph" />
 </p>
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&hideBg=true&hideTitle=true)
-
 <p align="center">
 <img src="https://github.com/Yuuzi261/Yuuzi261/blob/main/img/terminal.gif" alt="Terminal GIF" />
 <a href="https://github.com/yuuzi261?tab=repositories"><img src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/top-langs/?username=yuuzi261&layout=donut-vertical&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6" alt="Top Langs" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,php,bash,powershell,sqlite,discord,vscode,linux,windows)](https://skillicons.dev)
+![](https://hit.yhype.me/github/profile?user_id=63157008)
+
+<p align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,php,bash,powershell,sqlite,discord,vscode,linux,windows" alt="My Skills" /></a>
+</p>
 
 <p align="center">
 <a href="https://discord.com/users/431016551261405195"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
@@ -37,5 +39,3 @@
 ![](https://img.shields.io/badge/Shell-wt-informational?style=flat&logo=windowsterminal&logoColor=white&color=b7e0f3) -->
 
 [![](https://raw.githubusercontent.com/Yuuzi261/Yuuzi261/main/img/nachoneko.png)](https://github.com/Yuuzi261/Yuuzi261/tree/main/md/declaration.md)
-
-![](https://hit.yhype.me/github/profile?user_id=63157008)
