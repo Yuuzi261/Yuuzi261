@@ -14,9 +14,8 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Yuuzi261/Yuuzi261/blob/main/img/terminal.gif" alt="Terminal GIF" />
-<!-- <img align="center" src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/wakatime?username=yuuzi&theme=transparent&title_color=b7e0f3&hide_border=true&layout=compact&langs_count=22&range=all_time" /> -->
-<a href="https://github.com/yuuzi261?tab=repositories"><img src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/top-langs/?username=yuuzi261&layout=donut-vertical&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6" alt="Top Langs" /></a>
+<img align="center" src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/wakatime?username=yuuzi&theme=transparent&title_color=b7e0f3&text_color=8ab0c6&hide_border=true&layout=compact&langs_count=22&range=all_time" alt="Wakatime State" />
+<a href="https://github.com/yuuzi261?tab=repositories"><img align="center" src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/top-langs/?username=yuuzi261&layout=donut-vertical&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6" alt="Top Langs" /></a>
 </p>
 
 <p align="center">
@@ -24,8 +23,10 @@
 </p>
 
 <p align="center">
-<a href="https://discord.com/users/431016551261405195"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=yuuzi261&color=8ab0c6" />
+<a href="https://discord.com/users/431016551261405195"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord Link" /></a>
+<a href="https://github.com/Yuuzi261/Yuuzi261/blob/main/img/terminal.gif"><img src="https://img.shields.io/badge/NyaShell-informational?style=flat&logo=gnubash&logoColor=black&color=b7e0f3" alt="Terminal GIF Link" /></a>
+<img src="https://komarev.com/ghpvc/?username=yuuzi261&color=8ab0c6" alt="Profile Views" />
+<a href="https://wakatime.com/@855b2f71-6fee-429a-a660-acc5d9f553e5"><img src="https://wakatime.com/badge/user/855b2f71-6fee-429a-a660-acc5d9f553e5.svg" alt="Total time coded since Aug 28 2024" /></a>
 </p>
 
 <!-- [![Hits](https://hits.sh/github.com/yuuzi261/hits.svg)](https://hits.sh/github.com/yuuzi261/hits/) -->
