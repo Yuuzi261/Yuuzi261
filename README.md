@@ -15,6 +15,7 @@
 
 <p align="center">
 <img src="https://github.com/Yuuzi261/Yuuzi261/blob/main/img/terminal.gif" alt="Terminal GIF" />
+<!-- <img align="center" src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/wakatime?username=yuuzi&theme=transparent&title_color=b7e0f3&hide_border=true&layout=compact&langs_count=22&range=all_time" /> -->
 <a href="https://github.com/yuuzi261?tab=repositories"><img src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/top-langs/?username=yuuzi261&layout=donut-vertical&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6" alt="Top Langs" /></a>
 </p>
 
