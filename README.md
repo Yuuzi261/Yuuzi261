@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,php,bash,powershell,sqlite,discord,vscode,linux,windows" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,vue,pinia,tensorflow,pytorch,mysql,sqlite,discord,vscode" alt="My Skills" /></a>
 </p>
 
 <p align="center">
