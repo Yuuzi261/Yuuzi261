@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yuuzi261&custom_title=Contribution%20Graph&theme=github-compact&line=8ab0c6&point=b7e0f3&hide_border=true" alt="Yuuzi's github activity graph" />
+<!-- <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yuuzi261&custom_title=Contribution%20Graph&theme=github-compact&line=8ab0c6&point=b7e0f3&hide_border=true" alt="Yuuzi's github activity graph" /> -->
+<img src="https://raw.githubusercontent.com/Yuuzi261/Yuuzi261/output/activity-graph.svg?v=1" alt="Yuuzi's github activity graph">
 </p>
 
 <p align="center">
