@@ -37,7 +37,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=yuuzi261&role=OWNER,ORGANIZATION_MEMBER&layout=donut-vertical&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6&exclude_repo=github-readme-streak-stats,ws-image-data,wsc-tcg-crawler,wsr-tcg-crawler,ws-tcg-crawler,ReVOC,ccmt-vlm,AICity2020-VOC-ReID,AICUP_Smart_Paddle_Data_Analysis,AICUP_LocalizedEnergyPrediction,IMBD_2024_113046,AICUP_BoT-SORT-TEAM_5041,Project-Academia,CIDEr,LAVIS
+          options: username=yuuzi261&role=OWNER,ORGANIZATION_MEMBER&layout=donut-vertical&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6&exclude_repo=github-readme-streak-stats,ws-image-data,wsc-tcg-crawler,wsr-tcg-crawler,ws-tcg-crawler,ReVOC,ccmt-vlm,AICUP_Smart_Paddle_Data_Analysis,AICUP_LocalizedEnergyPrediction,IMBD_2024_113046,Project-Academia,LAVIS&hide=jupyter%20notebook,kotlin,rust
           path: dist/top-langs.svg
           token: ${{ secrets.STATS_PAT || secrets.GITHUB_TOKEN }}
 
