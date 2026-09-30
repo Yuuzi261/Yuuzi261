@@ -1,0 +1,71 @@
+name: Update README Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight UTC
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=yuuzi261&role=OWNER,ORGANIZATION_MEMBER&count_private=true&show_icons=true&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6&icon_color=c6c6c6&include_all_commits=false&exclude_repo=github-readme-streak-stats&rank_icon=default
+          path: dist/stats.svg
+          token: ${{ secrets.STATS_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Generate WakaTime stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: wakatime
+          options: username=yuuzi&theme=transparent&title_color=b7e0f3&text_color=8ab0c6&hide_border=true&layout=compact&langs_count=22&range=all_time
+          path: dist/wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=yuuzi261&role=OWNER,ORGANIZATION_MEMBER&layout=donut-vertical&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6&exclude_repo=github-readme-streak-stats
+          path: dist/top-langs.svg
+          token: ${{ secrets.STATS_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: stats-cards
+          path: dist/*.svg
+          retention-days: 1
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: generate
+    permissions:
+      contents: write
+
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v7
+        with:
+          name: stats-cards
+          path: dist
+
+      - name: Publish SVG
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output-stats
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
