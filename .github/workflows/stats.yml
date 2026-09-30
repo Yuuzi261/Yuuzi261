@@ -37,7 +37,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=yuuzi261&role=OWNER,ORGANIZATION_MEMBER&layout=donut-vertical&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6&exclude_repo=github-readme-streak-stats
+          options: username=yuuzi261&role=OWNER,ORGANIZATION_MEMBER&layout=donut-vertical&hide_border=true&theme=transparent&title_color=b7e0f3&text_color=8ab0c6&exclude_repo=github-readme-streak-stats&hide=jupyter%20notebook
           path: dist/top-langs.svg
           token: ${{ secrets.STATS_PAT || secrets.GITHUB_TOKEN }}
 
