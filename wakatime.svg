@@ -1,0 +1,516 @@
+
+      <svg
+        width="495"
+        height="365"
+        viewBox="0 0 495 365"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-labelledby="descId"
+      >
+        <title id="titleId"></title>
+        <desc id="descId"></desc>
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #b7e0f3;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #8ab0c6;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    .not_bold { font-weight: 400 }
+    .bold { font-weight: 700 }
+  
+    @keyframes slideInAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: calc(100%-100px);
+      }
+    }
+    @keyframes growWidthAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8ab0c6 }
+    #rect-mask rect{
+      animation: slideInAnimation 1s ease-in-out forwards;
+    }
+    .lang-progress{
+      animation: growWidthAnimation 0.6s ease-in-out forwards;
+      fill: #b7e0f3;
+    }
+    .progress-background { fill: #8ab0c6; }
+    
+          
+
+          
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
+      }
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+    
+          
+        </style>
+
+        
+        <defs>
+          
+          
+        </defs>
+        
+
+        <rect
+          data-testid="card-bg"
+          class="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#e4e2e2"
+          width="494"
+          fill="#ffffff00"
+          stroke-opacity="0"
+        />
+
+        
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
+        <g transform="translate(0, 0)">
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >WakaTime Stats</text>
+    </g>
+      </g>
+    
+
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 55)"
+        >
+          
+    <svg x="0" y="0" width="100%">
+      
+      <mask id="rect-mask">
+      <rect x="25" y="0" width="440" height="8" fill="white" rx="5" />
+      </mask>
+      
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="0"
+            y="0"
+            width="161.30849999999998"
+            height="8"
+            fill="#3572A5"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="161.30849999999998"
+            y="0"
+            width="107.0895"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="268.39799999999997"
+            y="0"
+            width="40.92"
+            height="8"
+            fill="#292929"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="309.318"
+            y="0"
+            width="37.851000000000006"
+            height="8"
+            fill="#083fa1"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="347.169"
+            y="0"
+            width="28.551"
+            height="8"
+            fill="#f1e05a"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="375.71999999999997"
+            y="0"
+            width="16.5075"
+            height="8"
+            fill="#cb171e"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="392.22749999999996"
+            y="0"
+            width="13.3455"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="405.573"
+            y="0"
+            width="12.0435"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="417.6165"
+            y="0"
+            width="10.8345"
+            height="8"
+            fill="#41b883"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="428.45099999999996"
+            y="0"
+            width="8.091000000000001"
+            height="8"
+            fill="#f34b7d"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="436.542"
+            y="0"
+            width="5.394"
+            height="8"
+            fill="#663399"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="441.936"
+            y="0"
+            width="4.836"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="446.772"
+            y="0"
+            width="3.4875"
+            height="8"
+            fill="#3178c6"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="450.2595"
+            y="0"
+            width="3.3945"
+            height="8"
+            fill="#237346"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="453.654"
+            y="0"
+            width="3.255"
+            height="8"
+            fill="#e34c26"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="456.909"
+            y="0"
+            width="2.418"
+            height="8"
+            fill="#F44D27"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="459.327"
+            y="0"
+            width="1.6275"
+            height="8"
+            fill="#012456"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="460.9545"
+            y="0"
+            width="1.5345000000000002"
+            height="8"
+            fill="#9c4221"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="462.489"
+            y="0"
+            width="1.3020000000000003"
+            height="8"
+            fill="#3D6117"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="463.791"
+            y="0"
+            width="1.1625"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="464.9535"
+            y="0"
+            width="0.8370000000000001"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="465.7905"
+            y="0"
+            width="0.5115"
+            height="8"
+            fill="#3A4E3A"
+          />
+        
+      
+    <g transform="translate(25, 25)">
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Python - 526 hrs 36 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 25)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Vue.js - 349 hrs 35 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#292929" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        JSON - 133 hrs 33 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 50)">
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Markdown - 123 hrs 32 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 75)">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        JavaScript - 93 hrs 10 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 75)">
+      <circle cx="5" cy="6" r="5" fill="#cb171e" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        YAML - 53 hrs 51 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 100)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Bash - 43 hrs 35 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 100)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Text - 39 hrs 19 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 125)">
+      <circle cx="5" cy="6" r="5" fill="#41b883" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Vue - 35 hrs 29 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 125)">
+      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C++ - 26 hrs 20 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 150)">
+      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        CSS - 17 hrs 39 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 150)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Other - 15 hrs 46 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 175)">
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TypeScript - 11 hrs 17 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 175)">
+      <circle cx="5" cy="6" r="5" fill="#237346" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        CSV - 11 hrs 1 min
+      </text>
+    </g>
+  
+    <g transform="translate(25, 200)">
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        HTML - 10 hrs 37 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 200)">
+      <circle cx="5" cy="6" r="5" fill="#F44D27" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Git Config - 7 hrs 48 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 225)">
+      <circle cx="5" cy="6" r="5" fill="#012456" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        PowerShell - 5 hrs 25 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 225)">
+      <circle cx="5" cy="6" r="5" fill="#9c4221" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TOML - 5 hrs 6 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 250)">
+      <circle cx="5" cy="6" r="5" fill="#3D6117" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TeX - 4 hrs 14 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 250)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        tmux - 3 hrs 50 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 275)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Docker - 2 hrs 49 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 275)">
+      <circle cx="5" cy="6" r="5" fill="#3A4E3A" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Cuda - 1 hr 45 mins
+      </text>
+    </g>
+  
+    
+    </svg>
+  
+        </g>
+      </svg>
+    
